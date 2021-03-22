@@ -1,0 +1,5 @@
+zeta    = 0.8;
+alpha   = 1;
+wn      = 10;
+
+out = sim("");
